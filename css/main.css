@@ -1,0 +1,18 @@
+body {
+  color: #000;
+  font-size: 16px;
+}
+
+p {
+  margin: 0;
+  padding: 10px;
+}
+
+div {
+  display: flex;
+}
+
+header {
+  position: fixed;
+  top: 0;
+}
